@@ -45,7 +45,7 @@
   },
   "packageManager": "yarn@3.2.2",
   "devDependencies": {
-    "glob": "11.0.0",
+    "glob": "11.1.0",
     "remark-cli": "^11.0.0",
     "remark-validate-links": "^12.1.0"
   }
